@@ -36,7 +36,7 @@ math.html
 <style type="text/css">
 body 
 {
-background-color:red;
+background-color:conflowerblue;
 }
 .edge {
 width: 1440px;
@@ -51,7 +51,7 @@ border: Thick dashed lime;
 width: 500px;
 min-height: 300px;
 font-size: 20px;
-background-color:blue;
+background-color:pink;
 }
 .formelt{
 color:orange;
@@ -124,8 +124,12 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
+## OUTPUT:
+![Screenshot (22)](https://github.com/yuvabharathib/mathserver/assets/113497404/506aa9bc-9626-48a6-8d49-8e79add6f85c)
+
 ## HOME PAGE:
-![WhatsApp Image 2023-05-30 at 11 51 27 AM](https://github.com/yuvabharathib/mathserver/assets/113497404/a446457d-853c-4132-84e8-b0a2331cc3a9)
+![Screenshot (21)](https://github.com/yuvabharathib/mathserver/assets/113497404/ef018856-75fc-4799-abc6-11ba542e4c17)
+
 
 
 
